@@ -1,0 +1,368 @@
+@media(min-width:320px) and (max-width:575px){
+
+
+    nav i{
+        color: #fff;
+    }
+    .main_menu {
+        background: #000;
+    }
+    
+    .main_menu .navbar-brand {
+        width: auto;
+        height: auto;
+        transform: skewX(0deg);
+        line-height: 0;
+        background: transparent;
+    }
+
+    .main_menu .navbar-brand img {
+        transform: skewX(0deg);
+    }
+
+    nav ul{
+        background: #000;
+        text-align: center;
+    }
+    #banner-part .banner .overlay h3::before{
+        display: none;
+    }
+    #banner-part .banner .overlay h1::before{
+        display: none;
+    }
+    #banner-part .banner .overlay p::before{
+        display: none;
+    }
+    #banner-part .banner .overlay p::after{
+        display: none;
+    }
+    #banner-part .banner .overlay h3::after{
+        display: none;
+    }
+    #banner-part .banner .overlay h1::after{
+        display: none;
+    }
+    #banner-part .banner .overlay h1 {
+        font-size: 45px;
+    }
+    #banner-part .banner .overlay h3 {
+        font-size: 23px;
+    }
+    #banner-part .banner .overlay p {
+        width: auto;
+    }
+    #banner-part .banner .overlay a {
+        font-size: 10px;
+        padding: 6px;
+    }
+    #banner-part .slick-dots {
+        left: 45%;
+    }
+    #about-part .details p {
+        width: auto;
+    }
+    #about-part {
+        margin-top: 25px;
+    }
+    #gelary-part {
+        margin-top: 25px;
+    }
+    #gelary-part .gelary {
+        margin-top: 10px;
+    }
+    #team-part {
+        margin-top: 40px;
+    }
+    #testi-part .testi-slider .overlay .item .icon {
+        left: 139px;
+    }
+    #testi-part .testi-slider .overlay .item h2 {
+        left: 140px;
+    }
+    #testi-part .testi-slider .overlay .item h3 {
+        position: absolute;
+        top: 35px;
+        left: 145px;
+        font-size: 14px;
+        font-family: 'Oswald', sans-serif;
+    }
+    #counter-part .overlay .item {
+        font-size: 12px;
+        font-weight: 700;
+    }
+    #class-part button {
+        padding: 0px 19px;
+    }
+    #class-part ul {
+        width: 117%;
+        margin-left: -10px;
+    }
+    #class-part .box {
+        width: 46%;
+    }
+    .slick-slide img {
+        width: 129px;
+    }
+    #last-part .touhid-rahman p {
+        margin-left: 6px;
+    }
+    #last-part .icon5 {
+        margin-left: 13px;
+    }
+    #last-part .icon6 {
+        margin-left: 13px;
+    }
+    #last-part .icon7 {
+        margin-left: 11px;
+    }
+    #last-part .last-icon i {
+        margin-left: 16px;
+    }
+    #last-part .touhid-srity{
+        
+            position: absolute;
+            left: 127px;
+        
+    }
+    /* =============== */
+}
+
+
+
+
+@media(min-width:576px) and (max-width:767px){
+
+
+    nav i{
+        color: #fff;
+    }
+    .main_menu {
+        background: #000;
+    }
+    
+    .main_menu .navbar-brand {
+        width: auto;
+        height: auto;
+        transform: skewX(0deg);
+        line-height: 0;
+        background: transparent;
+    }
+
+    .main_menu .navbar-brand img {
+        transform: skewX(0deg);
+    }
+
+    nav ul{
+        background: #000;
+        text-align: center;
+    }
+    #banner-part .banner .overlay h3::after {
+        left: -187px;
+    }
+    #banner-part .banner .overlay h3::before {
+        right: -185px;
+    }
+    #banner-part .banner .overlay h1::before {
+        right: -131px;
+    }
+    #banner-part .banner .overlay h1::after {
+        left: -134px;
+    }
+    #banner-part .banner .overlay p::before {
+        right: -1px;
+        width: 66px;
+    }
+    #banner-part .banner .overlay p::after {
+        left: -3px;
+        width: 71px;
+    }
+    #about-part .details p {
+        width: auto;
+    }
+    #about-part {
+        margin-top: 25px;
+    }
+    #gelary-part .img-overlay i {
+        font-size: 25px;
+    }
+    #gelary-part {
+        margin-top: 25px;
+    }
+    #gelary-part .gelary {
+        margin-top: 10px;
+    }
+    #team-part {
+        margin-top: 40px;
+    }
+    #testi-part .testi-slider .overlay .item .icon {
+        left: 81px;
+        top: -21px;
+    }
+    #testi-part .testi-slider .overlay .item h2 {
+        left: 77px;
+        top: -56px;
+    }
+    #testi-part .testi-slider .overlay .item h3 {
+        top: -36px;
+        left: 95px;
+    }
+    #counter-part .overlay .item {
+        font-size: 12px;
+        font-weight: 700;
+    }
+    #class-part button {
+        padding: 4px 19px;
+    }
+    #class-part ul {
+        width: 541px;
+    }
+  
+    #class-part .box {
+        width: 46%;
+    }
+    .slick-slide img {
+        width: 238px;
+    }
+    #slide-part .next {
+        left: -26px;
+    }
+    #slide-part .last {
+        right: -23px;
+    }
+    #last-part .touhid-rahman p {
+        margin-left: 6px;
+    }
+    #last-part .icon5 i {
+        top: -51px;
+        left: -20px;
+    }
+    #last-part .icon6 i {
+        top: -53px;
+        left: -21px;
+    }
+    #last-part .icon7 i {
+        top: -51px;
+        left: -20px;
+    }
+    #last-part .last-icon i {
+        margin-left: 10px;
+    }
+    #last-part .touhid-srity {
+        position: absolute;
+        left: 107px;
+    }
+    /* =============== */
+}
+
+
+
+
+@media(min-width:768px) and (max-width:991px){
+
+    .main_menu ul li a {
+        font-size: 12px;
+    }
+    nav i{
+        color: #fff;
+    }
+    .main_menu {
+        background: #000;
+    }
+    
+    .main_menu .navbar-brand {
+        width: auto;
+        height: auto;
+        transform: skewX(0deg);
+        line-height: 0;
+        background: transparent;
+    }
+
+    .main_menu .navbar-brand img {
+        transform: skewX(0deg);
+    }
+
+    nav ul{
+        background: #000;
+        text-align: center;
+    }
+    #banner-part .banner .overlay h3::after {
+        left: -187px;
+    }
+    #banner-part .banner .overlay h3::before {
+        right: -185px;
+    }
+    #banner-part .banner .overlay h1::before {
+        right: -131px;
+    }
+    #banner-part .banner .overlay h1::after {
+        left: -134px;
+    }
+    #banner-part .banner .overlay p::before {
+        right: -1px;
+        width: 66px;
+    }
+    #banner-part .banner .overlay p::after {
+        left: -3px;
+        width: 71px;
+    }
+    #about-part .details p {
+        width: auto;
+    }
+    #about-part {
+        margin-top: 25px;
+    }
+    #gelary-part .img-overlay i {
+        font-size: 25px;
+    }
+    #gelary-part {
+        margin-top: 25px;
+    }
+    #gelary-part .gelary {
+        margin-top: 10px;
+    }
+    
+    #team-part .overlay .icon i {
+        padding: 5px;
+        font-size: 10px;
+    }
+    
+    #counter-part .overlay .item {
+        font-size: 12px;
+        font-weight: 700;
+    }
+    #class-part ul {
+        
+        width: 130%;
+    }
+    #slide-part .next {
+        top: 40%;
+        left: -33px;
+    }
+    #slide-part .last {
+        top: 34%;
+        right: -30px;
+    }
+    #last-part .touhid-rahman p {
+        margin-left: 6px;
+    }
+    #last-part .icon5 i {
+        top: -51px;
+        left: -20px;
+    }
+    #last-part .icon6 i {
+        top: -53px;
+        left: -21px;
+    }
+    #last-part .icon7 i {
+        top: -51px;
+        left: -20px;
+    }
+    #last-part .last-icon i {
+        margin-left: 10px;
+    }
+    #last-part .touhid-srity {
+        position: absolute;
+        left: 107px;
+    }
+    /* =============== */
+}
